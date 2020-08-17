@@ -9,9 +9,9 @@
 /**
  *		##### 40-CYCLES SHA1-KERNEL - IMPLEMENTATION COPYRIGHT BY:
  *		#####
- *		##### VITALIJ TKANOV, 		737887
- *		##### DENNIS ZIEGELMANN, 	737781
- *		#####	LUKAS NEUKIRCHEN,		729339
+ *		##### VITALIJ T******, 		******
+ *		##### DENNIS Z********, 	******
+ *		####  LUKAS N*******,		******
  *		#####
  *		##### Complex Digital Architectures - Summer Term 2019 - Hochschule Darmstadt
  */
