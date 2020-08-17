@@ -63,7 +63,7 @@ begin
 X_out <= mag_x_q;
 Y_out <= mag_y_q;
 
-realnumber_x <= to_sfixed(0.60725,3,-12) * to_sfixed(X_out_q,15,0); -- one fixed point multiplication
+realnumber_x <= to_sfixed(0.60725,3,-12) * to_sfixed(X_out_q,15,0); -- two fixed point multiplications
 realnumber_y <= to_sfixed(0.60725,3,-12) * to_sfixed(Y_out_q,15,0); -- floating point takes too much resources
 
 --- INITIALIZE STARTING VECTOR HERE ---
